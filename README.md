@@ -109,3 +109,6 @@ There is a noticeable increase in the number of reviews in the 2-3 range compare
 The lowest number of reviews is found in the 0-1 range, indicating that there may be room for improvement in terms of customer satisfaction.
 
 Overall, the distribution of customer ratings suggests that most customers are satisfied with the products, but there may be opportunities for improvement to increase the number of positive ratings.
+
+
+![download](https://github.com/abdussamad7890/Amazon-Product-Analysis-Report/assets/96077933/cda04758-bc26-43aa-8d2c-ad9d45f53ede)
